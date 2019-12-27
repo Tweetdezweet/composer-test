@@ -1,0 +1,6 @@
+{
+    "name": "Tweetdezweet/composertest",
+    "require": {
+        "phpunit/phpunit": "*"
+    }
+}
