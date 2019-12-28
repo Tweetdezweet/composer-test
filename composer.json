@@ -1,6 +1,6 @@
 {
-    "name": "Tweetdezweet/composer-test",
+    "name": "tweetdezweet/composer-test",
     "require": {
-        "phpunit/phpunit": "*"
+        "psr/log": "*"
     }
 }
